@@ -1,0 +1,18 @@
+{
+  "project_id": "research-team-example-001",
+  "generated_at": "2030-05-06T09:00:00Z",
+  "stage_counts": {
+    "received": 8,
+    "under_review": 4,
+    "interview_proposed": 2,
+    "decision_pending": 0
+  },
+  "exceptions": [
+    {
+      "candidate_id": "candidate-001",
+      "type": "missing_evidence",
+      "detail": "Availability confirmation has not been recorded."
+    }
+  ],
+  "next_human_action": "Review the proposed interview shortlist."
+}

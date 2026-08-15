@@ -1,0 +1,16 @@
+{
+  "candidate_id": "candidate-001",
+  "evidence": [
+    {
+      "criterion": "structured_research",
+      "summary": "Produced a cited market map for a university research project.",
+      "source_reference": "work-sample-01"
+    },
+    {
+      "criterion": "written_communication",
+      "summary": "Presented assumptions and limitations clearly in the submitted work sample.",
+      "source_reference": "work-sample-01"
+    }
+  ],
+  "missing_evidence": ["availability_confirmation"]
+}

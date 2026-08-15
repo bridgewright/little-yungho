@@ -1,0 +1,14 @@
+{
+  "project_id": "research-team-example-001",
+  "project_title": "Market Landscape Research",
+  "application_deadline": "2030-05-10",
+  "engagement_start": "2030-05-20",
+  "engagement_end": "2030-06-14",
+  "open_positions": 2,
+  "decision_owner_role": "Project Lead",
+  "status_channel": "staffing-operations",
+  "automation": {
+    "external_messages_enabled": false,
+    "human_approval_required": true
+  }
+}

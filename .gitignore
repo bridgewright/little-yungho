@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local agent settings
+.claude/settings.local.json
+
+# Runtime and integration data
+data/
+runtime/
+output/
+credentials/
+cookies/
+*.session.json
+*.token.json
+.env
+.env.*
+
+# Candidate documents and common exports
+resumes/
+candidates/
+applications/
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.csv
+
+# Credentials and keys
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Operating-system files
+.DS_Store
+Thumbs.db
